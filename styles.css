@@ -1,0 +1,22 @@
+.title{
+    text-align:center;
+    background-color:blue;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.left{
+    width: 30%;
+    background-color:yellow;
+    padding: 10px;
+    margin: 5px;
+}
+.center{
+    width: 70%;
+    background-color: blue;
+}
+img{
+    width:200px;
+}
